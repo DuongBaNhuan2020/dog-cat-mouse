@@ -1,3 +1,6 @@
 var dog=require('./dog');
+var cat=require('/.cat');
 var dog=new dog('tom');
-dog.sayhi();
+var tom=new cat();
+dog.eat(ton);
+console.log(dog);
